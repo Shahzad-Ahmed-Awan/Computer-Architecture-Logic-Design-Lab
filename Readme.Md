@@ -31,6 +31,7 @@ Each experiment includes:
 ## 📁 Repository Structure
 
 ```
+├── Lab 01: Introduction
 ├── Lab 02: Basic Gate Implementation 
 ├── Lab 03: Implementation of Universal Gates through Basic Gates
 ├── Lab 04: Verification Both De Morghan's Laws
