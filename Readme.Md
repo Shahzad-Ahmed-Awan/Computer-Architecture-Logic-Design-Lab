@@ -35,6 +35,7 @@ Each experiment includes:
 ├── Lab 03: Implementation of Universal Gates through Basic Gates
 ├── Lab 04: Verification Both De Morghan's Laws
 ├── Lab 05: Implementation of HalF Adder
+├── Lab 06: Implementation of Combinational Circuit Types
 ```
 
 ---
