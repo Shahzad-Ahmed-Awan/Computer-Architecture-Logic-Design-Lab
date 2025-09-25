@@ -38,6 +38,8 @@ Each experiment includes:
 ├── Lab 05: Implementation of HalF Adder
 ├── Lab 06: Implementation of Combinational Circuit Types
 ├── Lab 07: Implementation of Encoder & Decoder
+├── Lab 08: Implementation of SR Latches
+├── Lab 09: Implementation of Arithmetic in emulator
 ```
 
 ---
